@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350489846207",
+    "project_id": "login-register-b3267",
+    "storage_bucket": "login-register-b3267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350489846207:android:cde039e2f31bccb082010a",
+        "android_client_info": {
+          "package_name": "com.example.pengelolaan_lele"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18B14No2mgPn3M7RdxPPd7Hv06Wg_TVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
